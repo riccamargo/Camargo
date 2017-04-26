@@ -1,0 +1,106 @@
+/* --------------------------------------
+Color Code : #330000
+----------------------------------------- */
+.bgc-two {
+  background-color: #8B0000;
+  background-color: #B22222;
+}
+
+.strong {
+  color:#BF0B0E;
+}
+
+strong {
+  color: #330000;
+}
+.underline {
+  background: #330000; }
+
+.colo#330000-text {
+  color: #330000 !important; }
+
+.color-background {
+	background: #330000;
+}
+
+a {
+  color: #330000; }
+
+.navbar-toggle {
+  border: none !important;
+  background-color: #330000 !important; }
+
+.navbar-toggle:hover {
+  background-color: #330000 !important; }
+
+.non-sticky .navbar-nav > li > a:hover {
+  color: #330000; }
+
+.standard-button {
+  border: 2px solid #330000 !important;
+  background-color: #330000;
+}
+
+.standard-button:hover {
+  background:#330000;
+  color: #323232;
+}
+h2 {
+  color: #330000 !important;
+}
+.package .header-dark {
+  background-color: #330000;
+}
+.package-center .header {
+  background-color: #330000;
+}
+.package-features .bottom-row .standard-button {
+  background-color: #330000;
+}
+.package-features .bottom-row .standard-button:hover {
+  background-color: #fff;
+    border-color: #330000 !important;
+}
+.package-features .bottom-row .secondary-button {
+  margin: 0;
+  padding: 5px 15px;
+  vertical-align: middle;
+    background-color: #330000;
+    border: 1px solid transparent;
+}
+.package-features .bottom-row .secondary-button:hover {
+    background-color: #fff;
+    border-color: #330000;
+}
+.secondary-button:hover {
+   }
+
+.sticky-navigation .main-navigation .current a {
+  color: #330000 !important;
+  border-color: transparent; !important; }
+
+.sticky-navigation .navbar-nav > li > a:hover {
+  color: #330000;
+  border-color: transparent; }
+
+.feature-list li .icon-custom {
+   }
+
+.feature .icon {
+  color: #330000; }
+.feature .icon i:hover{
+	border: 2px solid #330000;
+}
+.input-box:active,
+.textarea-box:active,
+.input-box:focus,
+.textarea-box:focus {
+  border: 10px solid #330000 !important; }
+
+.portfolio .owl-theme .owl-controls .owl-page span {
+  background: #330000; }
+
+.social-icons li a:hover {
+  background: #330000; }
+
+/*# sourceMappingURL=alizarin.css.map */

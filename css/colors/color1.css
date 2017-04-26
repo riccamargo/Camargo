@@ -1,0 +1,105 @@
+/* --------------------------------------
+Color Code : #201701
+----------------------------------------- */
+.bgc-two {
+  background-color: #8B4513;
+}
+
+.strong {
+  color:#201701;
+}
+
+strong {
+  color: #201701;
+}
+.underline {
+  background: #201701; }
+
+.colo#201701-text {
+  color: #201701 !important; }
+
+.color-background {
+	background: #201701;
+}
+
+a {
+  color: #201701; }
+
+.navbar-toggle {
+  border: none !important;
+  background-color: #201701 !important; }
+
+.navbar-toggle:hover {
+  background-color: #201701 !important; }
+
+.non-sticky .navbar-nav > li > a:hover {
+  color: #201701; }
+
+.standard-button {
+  border: 2px solid #201701 !important;
+  background-color: #201701;
+}
+
+.standard-button:hover {
+  background:#201701;
+  color: #323232;
+}
+h2 {
+  color: #201701 !important;
+}
+.package .header-dark {
+  background-color: #201701;
+}
+.package-center .header {
+  background-color: #201701;
+}
+.package-features .bottom-row .standard-button {
+  background-color: #201701;
+}
+.package-features .bottom-row .standard-button:hover {
+  background-color: #fff;
+    border-color: #201701 !important;
+}
+.package-features .bottom-row .secondary-button {
+  margin: 0;
+  padding: 5px 15px;
+  vertical-align: middle;
+    background-color: #201701;
+    border: 1px solid transparent;
+}
+.package-features .bottom-row .secondary-button:hover {
+    background-color: #fff;
+    border-color: #201701;
+}
+.secondary-button:hover {
+   }
+
+.sticky-navigation .main-navigation .current a {
+  color: #201701 !important;
+  border-color: transparent; !important; }
+
+.sticky-navigation .navbar-nav > li > a:hover {
+  color: #201701;
+  border-color: transparent; }
+
+.feature-list li .icon-custom {
+   }
+
+.feature .icon {
+  color: #201701; }
+.feature .icon i:hover{
+	border: 2px solid #201701;
+}
+.input-box:active,
+.textarea-box:active,
+.input-box:focus,
+.textarea-box:focus {
+  border: 10px solid #201701 !important; }
+
+.portfolio .owl-theme .owl-controls .owl-page span {
+  background: #201701; }
+
+.social-icons li a:hover {
+  background: #201701; }
+
+/*# sourceMappingURL=alizarin.css.map */

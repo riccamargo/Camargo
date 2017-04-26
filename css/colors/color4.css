@@ -1,0 +1,107 @@
+/* --------------------------------------
+Color Code : #FFC0CB
+----------------------------------------- */
+.bgc-two {
+  background-color: #C71585;
+}
+
+.strong {
+  color:#FFC0CB;
+}
+
+strong {
+  color: #FFC0CB;
+}
+.underline {
+  background: #FFC0CB; }
+
+.colo#FFC0CB-text {
+  color: #FFC0CB !important; }
+
+.color-background {
+	background: #FFC0CB;
+}
+
+a {
+  color: #FFC0CB; }
+
+.navbar-toggle {
+  border: none !important;
+  background-color: #FFC0CB !important; }
+
+.navbar-toggle:hover {
+  background-color: #FFC0CB !important; }
+
+.non-sticky .navbar-nav > li > a:hover {
+  color: #FFC0CB; }
+
+.standard-button {
+  border: 2px solid #FFC0CB !important;
+  background-color: #FFC0CB;
+}
+
+.standard-button:hover {
+  background:#FFC0CB;
+  color: #323232;
+}
+h2, h6 {
+  color: #FFC0CB !important;
+}
+.package .header-dark {
+  background-color: #FFC0CB;
+}
+.package-center .header {
+  background-color: #FFC0CB;
+}
+.package-features .bottom-row .standard-button {
+  background-color: #FFC0CB;
+}
+.package-features .bottom-row .standard-button:hover {
+  background-color: #fff;
+    border-color: #FFC0CB !important;
+}
+.package-features .bottom-row .secondary-button {
+  margin: 0;
+  padding: 5px 15px;
+  vertical-align: middle;
+    background-color: #FFC0CB;
+    border: 1px solid transparent;
+}
+.package-features .bottom-row .secondary-button:hover {
+    background-color: #fff;
+    border-color: #FFC0CB;
+}
+.secondary-button:hover {
+   }
+
+.sticky-navigation .main-navigation .current a {
+  color: #FFC0CB !important;
+  border-color: transparent; !important; }
+
+.sticky-navigation .navbar-nav > li > a:hover {
+  color: #FFC0CB;
+  border-color: transparent; }
+
+.feature-list li .icon-custom {
+   }
+
+.feature .icon {
+  color: #FFC0CB;
+}
+
+.feature .icon i:hover{
+	border: 2px solid #FFC0CB;
+}
+.input-box:active,
+.textarea-box:active,
+.input-box:focus,
+.textarea-box:focus {
+  border: 10px solid #FFC0CB !important; }
+
+.portfolio .owl-theme .owl-controls .owl-page span {
+  background: #FFC0CB; }
+
+.social-icons li a:hover {
+  background: #FFC0CB; }
+
+/*# sourceMappingURL=alizarin.css.map */
